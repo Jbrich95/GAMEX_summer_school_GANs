@@ -1,6 +1,6 @@
 # Generative Modelling for Extremes and Risk
 
-**GAMEX - Edinburgh Summer School on Generative AI for Extremes**
+**GAMEX - Edinburgh Summer School on Generative AI for Extremes** <br>
 **The University of Edinburgh · 8-11 September 2026** <br>
 [GAMEX Summer School website](https://gamex-network.github.io/school/)
 
