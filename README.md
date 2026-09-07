@@ -7,6 +7,7 @@
 This repository contains materials for a 120-minute practical session on **Generative Modelling for Extremes and Risk** with PyTorch by [**Jordan Richards**](https://jbrich95.github.io/).
  
  The practical illustrates how to use torch to build and train a standard generative adversarial network (GAN), and compares the extrapolative properties of GANs with two extremal alternatives - EV-GAN and ExceedGAN. The original code for EV-GAN and ExceedGAN can be found at [https://github.com/michael-allouche/extreme-value-GAN](https://github.com/michael-allouche/extreme-value-GAN).
+
 ---
 
 ## Practical materials
